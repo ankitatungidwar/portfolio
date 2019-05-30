@@ -1,7 +1,7 @@
 body{
   font-family: "Montserrat";
   text-align: center;
-  background-color: #d1d1d1;
+  background-color: #ecf2f9;
   color: #002f35;
 }
 
@@ -46,7 +46,7 @@ p {
 }
 #education{
   text-align: center;
-  padding-top:40px; 
+  padding-top:40px;
 }
 .edu-pic{
   width: 350px;

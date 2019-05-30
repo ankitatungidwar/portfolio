@@ -97,6 +97,7 @@ font-family: "Montserrat-Black";
 /* Techinal Skills */
 #technicialskils{
   background-color: #fff;
+  padding-top: 50px;
 }
 .wt{
   color:#05004e;
@@ -190,7 +191,7 @@ font-family: "Montserrat-Black";
 /* project Section */
 
 #project {
-  padding: 50px;
+  padding-top: 50px;
   /* background-color: #cdffeb; */
   /* background-color: #ecf2f9; */
   background-color: #f3f9fb;
@@ -240,7 +241,7 @@ background-color:#f3f9fb;
 /* Experience Section */
 
 #exp{
-    padding-top:15px;
+    padding-top:50px;
   background-color: #ecf2f9;
 }
 .exp-pic{
@@ -271,8 +272,10 @@ background-color:#f3f9fb;
 }
 /* Education*/
 #education{
-  background-color: #c8e8ed;
-  padding: 50px;
+  /* background-color: #c8e8ed; */
+  background-color: #f3f9fb
+  padding-top: 50px;
+  padding-bottom: 100px:
 }
 .edu-pic{
   width:250px;
@@ -280,7 +283,8 @@ background-color:#f3f9fb;
 }
 /* contact */
 #contact{
-  background-color: #d7eef2;
+  /* background-color: #d7eef2; */
+  background-color: #ecf2f9;
    text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
