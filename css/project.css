@@ -1,0 +1,87 @@
+body{
+  font-family: "Montserrat";
+  text-align: center;
+  /* background-image: url('http://pluspng.com/img-png/wave-background-png-blue-moving-flowing-abstract-waves-on-white-background-blurred-smooth-seamless-loop-design-video-animation-1920x1080-motion-background-videoblocks-1920.png');
+background-repeat: no-repeat;
+background-size: cover; */
+background-color: #d1d1d1;
+  color: #002f35;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+p {
+  color: #8f8f8f;
+}
+#project{
+  text-align: center;
+}
+.navbar {
+   /* padding: 0 0 4.5rem; */
+   position: fixed;
+   height: 60px;
+   background-color: #071e3d;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+.title{
+  color: #002f35;
+  padding-top: 85px;
+  text-align: center;
+  padding-left: 550px;
+  padding-bottom: 0;
+
+}
+.big-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  color: #002f35;
+  /* line-height: 1.5; */
+}
+#friendBook{
+  color: #002f35;
+}
+.container-fluid{
+  color: #002f35;
+}
+.fb-img{
+  padding-top: 80px;
+}
+.fb{
+  width: 500px;
+  height: 300px;
+}
+.fb-area{
+  /* padding: 100px; */
+    color: #fff;
+}
+.fb-text{
+  padding-top: 80px;
+    color: #002f35;
+    font-weight: bolder;
+    text-align: left;
+    padding-right: 20px;
+}
+.big-heading1{
+  font-size: 2.5rem;
+  color: #002f35;
+  font-weight:bold;
+}
+.big-heading2 {
+  color: #002f35;
+}
+.big-heading3{
+  color:#4e4e4e ;
+}

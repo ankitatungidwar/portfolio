@@ -1,0 +1,326 @@
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Headings */
+/* Title Section */
+
+#title {
+  /* background-color: #f0ece2; */
+  /* background-image: url('https://i.pinimg.com/originals/82/b8/25/82b8254b0f7e2160d9d70170a770031a.jpg'); */
+  background-image: url('https://www.ewebmarketing.com.au/wp-content/uploads/2016/07/tech-background-image-2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1400px;
+
+  color: #fff;
+  text-align: left;
+}
+
+#title .container-fluid {
+  padding: 3% 3% 7%;
+}
+
+/* Title Image */
+
+/* .title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+} */
+.title-area
+{
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-bottom: 1px;
+}
+.big-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  /* line-height: 1.5; */
+}
+.big-heading1{
+font-family: "Montserrat-Black";
+}
+
+/* .section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+} */
+
+/* Containers */
+
+/* .container-fluid{
+  padding: 7% 15%;
+
+} */
+
+/* Sections */
+/*
+.colored-section {
+  background-color: #ff4c68;
+
+} */
+
+.white-section {
+  background-color: #fff;
+
+}
+
+/* Navigation Bar */
+
+.navbar {
+   /* padding: 0 0 4.5rem; */
+   position: fixed;
+   height: 60px;
+   background-color: #071e3d;
+
+
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+
+.nav-item {
+  padding: 0 18px;
+
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+
+}
+
+/* Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+
+
+/* Techinal Skills */
+#technicialskils{
+  background-color: #fff;
+
+}
+
+
+
+.wt{
+  color:#05004e;
+  text-align: center;
+  padding-left: 9%;
+  padding-top: 8%;
+  font-weight: bolder;
+}
+.dt-pic{
+  width: 90%;
+  height: 90%;
+
+}
+
+.text-ts{
+  color:#2d132c;
+  font-weight: bold;
+}
+.pl-pic{
+  width: 350px;
+  height: 350px;
+  padding-top: 7%;
+
+}
+.db{
+  color:#05004e;
+  text-align: center;
+  padding-left: 9%;
+  padding-top: 7%;
+}
+.sr-only{
+  color: #05004e;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  padding-top: 25%;
+  height: 200px;
+  width: 100px;
+  outline: black;
+  color: black;
+
+}
+
+/* #features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+/*
+.feature-box {
+  padding: 4.5%;
+} */
+
+/* .icon {
+  color: #142d4c;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+} */
+
+/* Testimonial Section */
+
+#testimonials {
+  background-color: #ef8172;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* project Section */
+
+#project {
+  padding: 50px;
+  /* background-color: #cdffeb; */
+  /* background-color: #ecf2f9; */
+  background-color: #f3f9fb;
+
+}
+.card{
+   border: none;
+   height: 100%;
+}
+.card-header{
+  border: none;
+    background-color:#f3f9fb;
+}
+.skills{
+    color: #fff;
+}
+.card-body{
+background-color:#f3f9fb;
+
+}
+.fb{
+  width: 400px;
+  height: 220px;
+
+}
+.pbtn{
+  -webkit-border-radius: 28;
+ -moz-border-radius: 28;
+ border-radius: 28px;
+ font-family: Arial;
+  width: 300px;
+  height: 50px;
+  color: black;
+}
+.pbtn:hover{
+  background: none;
+}
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+/* Experience Section */
+
+#exp{
+    padding-top:15px;
+  background-color: #ecf2f9;
+}
+.exp-pic{
+  padding-right: 0;
+  margin-right: 0;
+
+}
+.epic{
+  height: 300px;
+  width: 500px;
+  padding-right: 0;
+  margin-right: 0;
+}
+.exp-text {
+  text-align: left;
+  padding-left: 0;
+  margin-left: 0;
+}
+.exp-text1{
+ text-align: left;
+ padding-top:3%;
+ padding-left: 7%;
+
+}
+.epic-wb{
+  height: 320px;
+  padding-right: 1%;
+}
+/* Education*/
+#education{
+  background-color: #c8e8ed;
+}
+.edu-pic{
+  width:250px;
+  height: 200px;
+}
+/* Footer Section */
+
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
