@@ -56,24 +56,7 @@ p {
 font-family: "Montserrat-Black";
 }
 
-/* .section-heading {
-  font-size: 3rem;
-  line-height: 1.5;
-} */
 
-/* Containers */
-
-/* .container-fluid{
-  padding: 7% 15%;
-
-} */
-
-/* Sections */
-/*
-.colored-section {
-  background-color: #ff4c68;
-
-} */
 
 .white-section {
   background-color: #fff;
@@ -83,30 +66,24 @@ font-family: "Montserrat-Black";
 /* Navigation Bar */
 
 .navbar {
-   /* padding: 0 0 4.5rem; */
    position: fixed;
    height: 60px;
    background-color: #071e3d;
-
-
 }
 
 .navbar-brand {
   font-family: "Ubuntu";
   font-size: 2.5rem;
   font-weight: bold;
-
 }
 
 .nav-item {
   padding: 0 18px;
-
 }
 
 .nav-link {
   font-size: 1.2rem;
   font-family: "Montserrat-Light";
-
 }
 
 /* Buttons */
@@ -120,11 +97,7 @@ font-family: "Montserrat-Black";
 /* Techinal Skills */
 #technicialskils{
   background-color: #fff;
-
 }
-
-
-
 .wt{
   color:#05004e;
   text-align: center;
@@ -135,9 +108,7 @@ font-family: "Montserrat-Black";
 .dt-pic{
   width: 90%;
   height: 90%;
-
 }
-
 .text-ts{
   color:#2d132c;
   font-weight: bold;
@@ -301,17 +272,50 @@ background-color:#f3f9fb;
 /* Education*/
 #education{
   background-color: #c8e8ed;
+  padding: 50px;
 }
 .edu-pic{
   width:250px;
   height: 200px;
 }
+/* contact */
+#contact{
+  background-color: #d7eef2;
+   text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.contact-teat-area{
+
+
+}
+.contact-text{
+  text-align: left;
+  color: #00043c;
+  padding-right: 130px;
+   padding-left: 130px;
+}
+
+.contact-icon{
+    padding-left:20px;
+      padding-top: 30px;
+ }
+.icon{
+  color: #2f89fc;
+}
+.icon-text{
+  color:#2f89fc;
+}
 /* Footer Section */
 
-
-.social-icon {
-  margin: 20px 10px;
+#footer{
+  background-color: #071e3d;
+  padding: 50px;
 }
+.back{
+  color: #fff;
+}
+
 
 @media (max-width: 1028px) {
 

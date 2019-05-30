@@ -12,11 +12,11 @@ h1, h2, h3, h4, h5, h6 {
 p {
   color: #8f8f8f;
 }
-#project{
-  text-align: center;
-}
-#living{
-  padding-bottom: 90px;
+.big-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  color: #002f35;
+  /* line-height: 1.5; */
 }
 .navbar {
    /* padding: 0 0 4.5rem; */
@@ -44,47 +44,26 @@ p {
   padding-bottom: 0;
 
 }
-.big-heading {
-  font-family: "Montserrat-Black";
-  font-size: 3.5rem;
-  color: #002f35;
-  /* line-height: 1.5; */
+#education{
+  text-align: center;
+  padding-top:40px; 
 }
-#friendBook{
-  color: #002f35;
+.edu-pic{
+  width: 350px;
+  height: 250px;
 }
-.container-fluid{
-  color: #002f35;
+.edu-uhcl{
+  text-align: left;
+  padding-top:30px;
+  padding-bottom: 40px;
+  padding-left: 150px;
 }
-.fb-img{
-  padding-top: 80px;
+.course{
+  text-align: center;
+  padding-left: 550px;
 }
-.fb{
-  width: 500px;
-  height: 300px;
-}
-.fb-area{
-  /* padding: 100px; */
-    color: #fff;
-}
-.fb-text{
-  padding-top: 80px;
-    color: #002f35;
-    font-weight: bolder;
-    text-align: left;
-    padding-right: 20px;
-}
-.big-heading1{
-  font-size: 2.5rem;
-  color: #002f35;
-  font-weight:bold;
-}
-.big-heading2 {
-  color: #002f35;
-}
-.big-heading3{
-  color:#4e4e4e ;
-}
+
+
 /* footer */
  #footer{
   background-color: #071e3d;
