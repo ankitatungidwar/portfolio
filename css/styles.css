@@ -316,6 +316,11 @@ background-color:#f3f9fb;
   background-color: #071e3d;
   padding: 50px;
 }
+.me-pic{
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
 .back{
   color: #fff;
 }
