@@ -20,7 +20,7 @@ p {
 #title {
   /* background-color: #f0ece2; */
   /* background-image: url('https://i.pinimg.com/originals/82/b8/25/82b8254b0f7e2160d9d70170a770031a.jpg'); */
-  background-image: url('https://www.ewebmarketing.com.au/wp-content/uploads/2016/07/tech-background-image-2.jpg');
+ background-image: url('https://www.ewebmarketing.com.au/wp-content/uploads/2016/07/tech-background-image-2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   width: 1400px;
@@ -273,7 +273,7 @@ background-color:#f3f9fb;
 /* Education*/
 #education{
   /* background-color: #c8e8ed; */
-  background-color: #f3f9fb
+  background-color: #f3f9fb;
   padding-top: 50px;
   padding-bottom: 100px:
 }
@@ -289,10 +289,10 @@ background-color:#f3f9fb;
     padding-top: 30px;
     padding-bottom: 30px;
 }
-.contact-teat-area{
+/* .contact-teat-area{
 
 
-}
+} */
 .contact-text{
   text-align: left;
   color: #00043c;
